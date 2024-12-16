@@ -553,3 +553,4 @@ void QuienEsQuien::setImagenOcultar(const char * n){
 void QuienEsQuien::setModoGraph(bool m){
     modo_graph=m;
 }
+
